@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: white;
 }
 body, html{
     background: #F7F7F7;
